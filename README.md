@@ -1,17 +1,21 @@
-24th of October, 2017
-# Stock-Exchanges-Ticker-List-For-Brazil
-Guys we have pushed complete ticker list for brazil. Its now available for download for all the traders.
-Be in touch with us @StockDataLab on twitter for more updates
-* For Historical data of brazil or any other exchange email us on stockdatalab@gmail.com
+# Stock-Exchanges-Symbol
+Guys Here, we are pushing tickers for all the countries available in Yahoo or Google for traders ease.
+
+  ====================STOCK DATA LAB has one mission "YOU EARN MONEY"=====================
+
+# WHAT WE HAVE?
+* Tickers for 41 Countries.
+* Total No of Symbols 113,193.
+* Historical data of billion's verified record of every available company.
+
+We have pushed few countries tickers here on our github account and more to come soon.
+You can get any country list of symbols. What you have to do is 
+
+# "EMAIL US" stockdatalab@gmail.com
+
+Yes, Yes. We know you are excited about historical records as well. We have verified historical data with us. You can get all data or any specified country, exchange or companies. What you have to do is 
 
 
-23rd of October, 2017
-# Stock-Exchanges-Ticker-List-For-Australia
-* Hey Guys! Thanks for your appreciation & your lots of email regarding ticker(symbol) list. Now we have started sharing all the list here on github one by one. In the above attached list you will find complete symbols of Australian exchanges. If you want any kind of further sorting in it email us on stockdatalab@gmail.com.
+# "EMAIL US" stockdatalab@gmail.com
 
-22nd of October, 2017
-# Stock-Exchanges-Ticker-List
-* Here We are sharing the ticker list(Symbols) of all stock exchanges.
-* File will be email to you ASAP, once received your email on stockdatalab@gmail.com
-* User can email details of any kind of sorted symbols e.g exchange wise, country wise, or for particular country or exchange.
-* Historical Data Request can be generated through email as well.
+Note: We (StockDataLab) promise with you. We won't share your email id or any details with anyone.
