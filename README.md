@@ -1,7 +1,8 @@
 # YAHOO HISTORICAL DATA FETCHER SYSTEM
 
 Hey Guys...! 
-To make you more closer to us. We have pushed our complete system flow. 
+To make you more closer to us. We have pushed our complete system flow.
+Visit https://github.com/stockdatalab/Stock-Exchanges-Ticker-List/blob/master/Yahoo_Historical_DataFETCHER_System.pdf
 Reason of sharing the above workflow system is to introduce you how our DataFETCHER works.
 
 If any one interested to get more information about our system or comments are welcome.
