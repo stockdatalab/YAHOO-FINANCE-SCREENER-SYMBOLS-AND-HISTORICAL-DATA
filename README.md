@@ -1,3 +1,18 @@
+# YAHOO HISTORICAL DATA FETCHER SYSTEM
+
+Hey Guys...! 
+To make you more closer to us. We have pushed our complete system flow. 
+Reason of sharing the above workflow system is to introduce you how our DataFETCHER works.
+
+If any one interested to get more information about our system or comments are welcome.
+
+Have a Good Day
+
+Email us
+
+# "EMAIL US" stockdatalab@gmail.com
+
+
 # Stock-Exchanges-Symbol
 Guys Here, we are pushing tickers for all the countries available in Yahoo or Google for traders ease.
 
